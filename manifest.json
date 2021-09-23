@@ -1,0 +1,20 @@
+{
+  "name": "Easy Hindi Typing",
+  "short_name": "EasyHindiTyping",
+  "icons": [
+    {
+      "src": "public/manifest/hindi192by192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "public/manifest/hindi512by512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/?utm_source=homescreen",
+  "theme_color": "#ef7b07",
+  "background_color": "#ef7b07",
+  "display": "standalone"
+}
